@@ -60,7 +60,7 @@ public class FirstProject {
             default:
                 System.out.println("Invalid letter");
 
-
+            //Closing Scanner
             input.close();
         }
 
