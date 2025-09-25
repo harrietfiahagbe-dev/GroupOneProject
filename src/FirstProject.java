@@ -16,7 +16,6 @@ public class FirstProject {
         double height_m = user_Height * INCH;
 
         double BMI = weight_kg/(height_m*height_m);
-
         System.out.println("Your BMI is:  " + BMI);
 
 
