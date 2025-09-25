@@ -58,7 +58,7 @@ public class FirstProject {
                 System.out.print('9');
                 break;
             default:
-                System.out.println("Invalid letter");
+                System.out.println("Invalid input");
 
             //Closing Scanner
             input.close();
